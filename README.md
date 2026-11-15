@@ -20,13 +20,14 @@ Actividad colaborativa desarrollada durante el módulo de Inteligencia Artificia
 
 ### 3. Reto de Prompt Engineering — APEX Kombat
 
-Desarrollo de un prototipo web de una liga de combates entre robots humanoides mediante Lovable.
+Desarrollo de una plataforma web de combates entre robots humanoides
+mediante Lovable, aplicando técnicas de Prompt Engineering.
 
-El proyecto incluye una landing page, páginas de atletas y eventos, y una simulación de compra de entradas.
+**Ubicación:** [03-pagina-web-ia/](./03-pagina-web-ia/)
 
-El repositorio independiente contiene el código generado, los prompts originales y la documentación del proceso.
+**Prompts utilizados:** [Ver prompts](./03-pagina-web-ia/docs/prompt.md)
 
-**[Ver proyecto APEX en GitHub](https://github.com/Riwi-Coders/t800-arena-showdown)**
+**Repositorio original:** [APEX Kombat](https://github.com/Riwi-Coders/t800-arena-showdown)
 
 ## Herramientas utilizadas
 
